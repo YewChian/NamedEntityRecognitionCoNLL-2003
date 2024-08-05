@@ -5,6 +5,7 @@ In this project, we selected an appropriate model to recognise the type of entit
 
 ## Background
 The CoNLL-2003 dataset contains tokens that are labelled with one of the 9 NER tags. 
+
 e.g.
 [ "Itamar", "Rabinovich", ",", "who", "as", "Israel", "'s", "ambassador", "to", "Washington", "conducted", "unfruitful", "negotiations", "with", "Syria", ",", "told", "Israel", "Radio", "it", "looked", "like", "Damascus", "wanted", "to", "talk", "rather", "than", "fight", "." ]	
 [ 3, 4, 0, 0, 0, 5, 0, 0, 0, 5, 0, 0, 0, 0, 5, 0, 0, 1, 6, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0 ]
